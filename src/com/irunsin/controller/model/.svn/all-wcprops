@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model
+END
+RememberDevices.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model/RememberDevices.java
+END
+FirVersionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model/FirVersionModel.java
+END
+Mp3Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model/Mp3Info.java
+END
+MusicServiceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model/MusicServiceModel.java
+END
+DeviceWifiInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model/DeviceWifiInfo.java
+END
+AlarmMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model/AlarmMode.java
+END
+SongListInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SyncCtrl/!svn/ver/27/SyncCtrl/src/com/irunsin/controller/model/SongListInfo.java
+END

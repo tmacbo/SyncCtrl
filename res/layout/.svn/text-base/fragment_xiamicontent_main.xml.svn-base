@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.irunsin.activity.syncctrl.HomeActivity" >
+	<RelativeLayout
+        android:id="@+id/xiami_music_top"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/top_bg" >
+
+        <ImageButton
+            android:id="@+id/musiclist_set_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_arrow_normal"
+           />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+  			android:layout_toRightOf="@id/musiclist_set_back"
+  			android:layout_centerVertical="true"
+  			android:layout_marginLeft="10dp"
+            android:text="虾米音乐"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+                
+    </RelativeLayout>
+    <com.irunsin.controller.indicator.TabPageIndicator
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lighter_grey" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.7dp"
+        android:background="@color/lighter_grey" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <!-- 这里可以把PagerTabStrip替换成PagerTitleStrip看看效果有何不同 -->
+
+</LinearLayout>

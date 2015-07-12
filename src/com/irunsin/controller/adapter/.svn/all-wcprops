@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SyncCtrl/!svn/ver/38/SyncCtrl/src/com/irunsin/controller/adapter
+END
+XiamiRadioAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SyncCtrl/!svn/ver/38/SyncCtrl/src/com/irunsin/controller/adapter/XiamiRadioAdapter.java
+END
+XiamiRecommendAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SyncCtrl/!svn/ver/38/SyncCtrl/src/com/irunsin/controller/adapter/XiamiRecommendAdapter.java
+END
+XiamiDailySongAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SyncCtrl/!svn/ver/38/SyncCtrl/src/com/irunsin/controller/adapter/XiamiDailySongAdapter.java
+END
+XiamiRankExpandAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SyncCtrl/!svn/ver/38/SyncCtrl/src/com/irunsin/controller/adapter/XiamiRankExpandAdapter.java
+END
+XiamiRecommendArtistAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SyncCtrl/!svn/ver/38/SyncCtrl/src/com/irunsin/controller/adapter/XiamiRecommendArtistAdapter.java
+END
+ListMusicAdpater.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SyncCtrl/!svn/ver/24/SyncCtrl/src/com/irunsin/controller/adapter/ListMusicAdpater.java
+END
+LocalMusicAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SyncCtrl/!svn/ver/24/SyncCtrl/src/com/irunsin/controller/adapter/LocalMusicAdapter.java
+END
+XiamiNewAlbumAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SyncCtrl/!svn/ver/38/SyncCtrl/src/com/irunsin/controller/adapter/XiamiNewAlbumAdapter.java
+END

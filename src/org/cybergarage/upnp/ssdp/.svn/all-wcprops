@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp
+END
+SSDPResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPResponse.java
+END
+SSDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDP.java
+END
+SSDPSearchResponseSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPSearchResponseSocket.java
+END
+SSDPNotifySocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPNotifySocket.java
+END
+SSDPSearchSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPSearchSocket.java
+END
+SSDPNotifySocketList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPNotifySocketList.java
+END
+SSDPSearchResponseSocketList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPSearchResponseSocketList.java
+END
+SSDPSearchSocketList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPSearchSocketList.java
+END
+HTTPMUSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/HTTPMUSocket.java
+END
+SSDPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPRequest.java
+END
+HTTPUSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/HTTPUSocket.java
+END
+SSDPSearchRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPSearchRequest.java
+END
+SSDPNotifyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPNotifyRequest.java
+END
+SSDPSearchResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPSearchResponse.java
+END
+SSDPPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/ssdp/SSDPPacket.java
+END

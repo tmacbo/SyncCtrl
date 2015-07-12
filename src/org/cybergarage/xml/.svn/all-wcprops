@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml
+END
+NodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml/NodeList.java
+END
+ParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml/ParserException.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml/Parser.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml/Attribute.java
+END
+AttributeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml/AttributeList.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml/XML.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/xml/Node.java
+END

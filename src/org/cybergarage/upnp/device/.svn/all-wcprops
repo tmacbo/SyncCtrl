@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device
+END
+USN.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/USN.java
+END
+NTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/NTS.java
+END
+SearchResponseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/SearchResponseListener.java
+END
+NotifyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/NotifyListener.java
+END
+SearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/SearchListener.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/Description.java
+END
+Advertiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/Advertiser.java
+END
+InvalidDescriptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/InvalidDescriptionException.java
+END
+DeviceChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/DeviceChangeListener.java
+END
+MAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/MAN.java
+END
+NT.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/NT.java
+END
+Disposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/Disposer.java
+END
+ST.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/device/ST.java
+END

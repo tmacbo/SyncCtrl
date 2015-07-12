@@ -1,0 +1,61 @@
+10
+
+dir
+45
+http://rged657tlrfo7cu:9898/svn/SyncCtrl/SyncCtrl/src/com/irunsin/controller
+http://rged657tlrfo7cu:9898/svn/SyncCtrl
+
+
+
+2015-01-19T09:44:24.929808Z
+39
+tmacbo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b93748d-22f0-964c-8a66-2582d35156bc
+
+activity
+dir
+
+adapter
+dir
+
+db
+dir
+
+fragment
+dir
+
+indicator
+dir
+
+model
+dir
+
+notifycation
+dir
+
+service
+dir
+
+sys
+dir
+
+util
+dir
+
+view
+dir
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/alpha"
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:background="@color/lighter_grey"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/content_grey"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" >
+
+        <ImageView
+            android:id="@+id/mysong_list_image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="14dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/mysong_list_image"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/musiclist_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:paddingBottom="4dp"
+                android:text="hdjsahdka"
+                android:textColor="@color/drak_grey"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/musiclist_desib"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/mid_grey"
+                android:textSize="13sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/peak_two"
+            style="@style/PeakMeter"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:paddingTop="8dp" />
+
+        <ImageView
+            android:id="@+id/peak_one"
+            style="@style/PeakMeter"
+            android:layout_centerVertical="true"
+            android:paddingRight="20dp"
+            android:paddingTop="8dp" />
+    </RelativeLayout>
+
+</LinearLayout>

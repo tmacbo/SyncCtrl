@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model
+END
+SimpleArtisModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SimpleArtisModel.java
+END
+RadioModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RadioModel.java
+END
+RecommendModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RecommendModel.java
+END
+Rank.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/Rank.java
+END
+RankList.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RankList.java
+END
+CollectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/CollectList.java
+END
+SearchSongsDataSongsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SearchSongsDataSongsData.java
+END
+AlbumDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/AlbumDetail.java
+END
+RecommendInfoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RecommendInfoModel.java
+END
+SearchSongsDataSongs.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SearchSongsDataSongs.java
+END
+DailySongModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/DailySongModel.java
+END
+Radio.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/Radio.java
+END
+SearchArtistModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SearchArtistModel.java
+END
+RadioSongMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RadioSongMode.java
+END
+RecommendSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RecommendSong.java
+END
+SearchSongModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SearchSongModel.java
+END
+ArtistAlbumsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/ArtistAlbumsResult.java
+END
+SearchCollectModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SearchCollectModel.java
+END
+NewAlbumsModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/NewAlbumsModel.java
+END
+RankSongsDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RankSongsDetail.java
+END
+RadioTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RadioTypeInfo.java
+END
+RankSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RankSong.java
+END
+XiamiAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/XiamiAccount.java
+END
+CollectNoSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/CollectNoSong.java
+END
+SearchSongsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SearchSongsData.java
+END
+CollectSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/CollectSong.java
+END
+RankModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RankModel.java
+END
+RankSongsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/RankSongsData.java
+END
+CollectDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/CollectDetail.java
+END
+SimpleArtist.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/SimpleArtist.java
+END
+Song.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/Song.java
+END
+StandardSong.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/StandardSong.java
+END
+StandardAlbum.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SyncCtrl/!svn/ver/4/SyncCtrl/src/com/alibaba/model/StandardAlbum.java
+END

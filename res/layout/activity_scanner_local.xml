@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/scanner_local_top"
+        style="@style/topbar_bg"
+        android:background="@drawable/top_bg" >
+
+        <ImageButton
+            android:id="@+id/scanner_set_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_arrow_normal"
+             />
+
+        <TextView
+            android:id="@+id/scan_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="歌曲扫描"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+        
+        
+    </RelativeLayout>
+	
+
+	   	<ImageView 
+	       android:id="@+id/scanner_image"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content"
+	       android:background="@drawable/scanning"	
+	       android:layout_below="@id/scanner_local_top"
+	       android:layout_centerHorizontal="true"
+	       android:layout_marginTop="40dp"      
+	       />
+	<TextView 
+	    android:id="@+id/scan_over_text"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerHorizontal="true"
+	    android:layout_below="@id/scanner_image"
+	    android:text="sdfds"
+	    android:layout_marginTop="20dp" 
+	    />
+    <Button
+        android:id="@+id/scanner_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/confrim_btn"
+        android:gravity="center"
+        android:text="开始扫描"
+        android:textColor="@color/white" />
+</RelativeLayout>

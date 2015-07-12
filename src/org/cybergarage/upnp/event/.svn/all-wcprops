@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event
+END
+SubscriptionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/SubscriptionResponse.java
+END
+EventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/EventListener.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/Subscription.java
+END
+Subscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/Subscriber.java
+END
+SubscriberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/SubscriberList.java
+END
+NotifyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/NotifyRequest.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/Property.java
+END
+PropertyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/PropertyList.java
+END
+SubscriptionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SyncCtrl/!svn/ver/3/SyncCtrl/src/org/cybergarage/upnp/event/SubscriptionRequest.java
+END

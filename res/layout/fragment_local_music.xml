@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/localmusic_top"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/top_bg" >
+
+        <ImageButton
+            android:id="@+id/musiclist_set_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_arrow_normal"
+           />
+
+        <TextView
+            android:id="@+id/musiclist_describe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+  			android:layout_toRightOf="@id/musiclist_set_back"
+  			android:layout_centerVertical="true"
+  			android:layout_marginLeft="10dp"
+            android:text="本地音乐"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/newmp3_scanner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:paddingRight="10dp"
+            android:src="@drawable/search_white"/>
+        
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/localmusic_control"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/localmusic_top"
+        >
+
+        <LinearLayout
+            android:id="@+id/localmusic_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/new_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:text="播放全部"                
+                android:textSize="15sp" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/common_white_btn_preview_pressed"
+                android:clickable="false"
+                android:layout_marginLeft="10dp"
+                 />
+            
+        </LinearLayout>
+        
+        <View
+              android:layout_width="fill_parent"
+              android:layout_height="0.7dp"
+              android:layout_below="@id/localmusic_play"
+              android:layout_margin="6dp"
+              android:background="@color/light_grey"
+              android:paddingBottom="8dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/localmusic_center"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/localmusic_control"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/mysong_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@color/lighter_grey"
+            android:cacheColorHint="@color/transparent"
+            android:dividerHeight="1dp"
+            android:footerDividersEnabled="true"
+            android:padding="4dp" >
+        </ListView>
+
+        <com.irunsin.controller.view.LocalMusicRightListView
+            android:id="@+id/MyLetterListView01"
+            android:layout_width="16dp"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:background="@color/lighter_grey" />
+    </RelativeLayout>
+
+</RelativeLayout>
